@@ -1,1 +1,4 @@
 action: issue
+ignorePaths:
+- dummy.exe
+- dummy.dll
