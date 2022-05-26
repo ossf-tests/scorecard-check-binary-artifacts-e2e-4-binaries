@@ -2,3 +2,5 @@ action: issue
 ignorePaths:
 - dummy.exe
 - dummy.dll
+- dummy.jar
+- dummy.so
